@@ -193,24 +193,3 @@ phys = 14 * (counter & 1) + ((id + counter) % 14)
 
 El juego elige la ranura con 14 sectores válidos y contador más alto. El fix
 fuerza que esa ranura sea siempre la de la mitad baja.
-
-## Licencia
-
-**GNU General Public License v3.0** (o cualquier versión posterior, a tu
-elección). El texto completo está en [`LICENSE`](LICENSE).
-
-```
-FixSave — arregla la "partida eliminada" de Pokemon gen 3 en cartuchos bootleg de 64 KB
-Copyright (C) 2026
-
-Este programa es software libre: puedes redistribuirlo y/o modificarlo bajo
-los terminos de la Licencia Publica General de GNU, version 3 o (a tu
-eleccion) cualquier version posterior.
-
-Se distribuye con la esperanza de que sea util, pero SIN NINGUNA GARANTIA,
-ni siquiera la garantia implicita de COMERCIABILIDAD o IDONEIDAD PARA UN FIN
-CONCRETO. Consulta la Licencia Publica General de GNU para mas detalles.
-
-Deberias haber recibido una copia de la Licencia Publica General de GNU junto
-con este programa. Si no es asi, consulta <https://www.gnu.org/licenses/>.
-```
