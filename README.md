@@ -214,6 +214,3 @@ CONCRETO. Consulta la Licencia Publica General de GNU para mas detalles.
 Deberias haber recibido una copia de la Licencia Publica General de GNU junto
 con este programa. Si no es asi, consulta <https://www.gnu.org/licenses/>.
 ```
-
-En corto: si publicas una versión modificada, tiene que seguir siendo libre y
-con el código a la vista. No puedes cerrarlo ni meterlo en algo propietario.
